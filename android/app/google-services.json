@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997486244540",
+    "project_id": "ladybird-hub",
+    "storage_bucket": "ladybird-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997486244540:android:b049fefd380221a7c156b9",
+        "android_client_info": {
+          "package_name": "com.softapps.ladybirdhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997486244540-ldhj15ddgc8nn4vrlnh52i9ujv30unv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQUlAmIwKFhBfCAX6U9t6UVuS2Nr-fa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997486244540-ldhj15ddgc8nn4vrlnh52i9ujv30unv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
